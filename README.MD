@@ -1,0 +1,11 @@
+1. GET
+![GET](<SS TUGAS/GET.png>)
+
+2. POST
+![POST](<SS TUGAS/POST.png>)
+
+3. PUT
+![PUT](<SS TUGAS/PUT.png>)
+
+4. DELETE
+![DELETE](<SS TUGAS/DELETE.png>)
