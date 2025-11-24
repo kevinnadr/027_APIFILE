@@ -7,6 +7,7 @@ async function connectDatabase() {
 
         await db.sequelize.sync({ alter: true });
         console.log('Database synchronized.');
+        
     } catch (error) {
         console.error('Database connection failed:', error);
         process.exit(1);    
